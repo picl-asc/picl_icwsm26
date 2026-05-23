@@ -238,9 +238,10 @@ BibTeX:
   month     = {05},
   address   = {Los Angeles, CA, USA}
 }
+```
 ---
 
-## Contact and Issues
+##Contact and Issues
 
 Found a bug, broken endpoint, or unclear instruction? Please open a GitHub issue on the repository. That is the fastest way to get a fix.
 
